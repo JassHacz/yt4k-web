@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+downloads/
+cloudflared.exe
+venv/
+.git/
+README.md
+docker-compose.yml

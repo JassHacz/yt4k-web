@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+
+# runtime artifacts
+downloads/
+
+# big binary — download separately (see README)
+cloudflared.exe
